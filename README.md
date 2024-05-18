@@ -1,5 +1,6 @@
 # RecoveryStealer
 Roblox Studio Files Recovery Stealer.
+Author: BonnieRBLX (.bxnnie)
 ## Requirements 
 Windows 10 or higher 
 ### Source
